@@ -21,7 +21,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@podman-desktop/api": "^1.10.3",
+    "@podman-desktop/api": "1.12.0-202406271837-0fb809c",
     "@types/node": "^18",
     "mkdirp": "^3.0.1",
     "typescript": "5.3.3",
